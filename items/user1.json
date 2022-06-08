@@ -1,0 +1,6 @@
+{
+    "type": {"S": "user"},
+    "id": {"S": "user1"},
+    "lastname": {"S": "Downey"},
+    "firstname":{"S": "Robert"} 
+}
